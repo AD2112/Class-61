@@ -1,0 +1,58 @@
+body {
+    background-color: darkorange;
+    text-align: center;
+}
+
+#welcome {
+    background: linear-gradient(blue 0%, yellow 100%);
+    padding-top: 150px;
+    
+}
+
+#Paragraph1 {
+    background-color: deepskyblue;
+    font-family: Lora;
+}
+
+.ULtag {
+    position: fixed;
+    top: 0px;
+    margin-top: 0px;
+    background: Black;
+    width: 100%;
+    z-index: 10;
+}
+.LItag
+{
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: fantasy;
+    font-size: 20px;
+    display: inline;
+}
+#WWW
+{
+    border-radius: 50px;
+    
+}
+.line
+{
+    height: 6px;
+    width: 90px;
+    background-color: black;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+    text-shadow: 2px 2px black;
+}
+#Writings a{
+    text-shadow: None;
+    text-decoration: underline;
+    Color:Blue;
+}
+.LItag:hover{
+  font-size: 25px;
+text-decoration: underline;
+}
